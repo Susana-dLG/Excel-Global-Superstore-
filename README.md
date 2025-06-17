@@ -64,3 +64,8 @@ Welcome to my **Excel-based data analysis project**, where I apply a wide range 
 📂 Excel-Analysis-Project/
 ├── Sales_Analysis.xlsx     # Main workbook with analysis
 ├── README.md               # This file
+
+---
+
+Created by Susana-dLG
+May 2025
